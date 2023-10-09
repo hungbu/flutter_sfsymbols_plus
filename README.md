@@ -9,7 +9,7 @@ This plugin support all ios and android devices.
 add flutter_sfsymbols into your pubspec.yaml
 ```yaml
 dependencies:
- flutter_sfsymbols: ^1.0.0
+ flutter_sfsymbols_plus: ^1.0.0
 ```
 
 and you need add fonts into your pubspec.yaml too  
@@ -27,7 +27,7 @@ You can also use Apple SF symbols tool to browse all icon sets.
 
 ## Usage
 ```dart
-import 'package:flutter_sfsymbols/flutter_sfsymbols.dart';
+import 'package:flutter_sfsymbols_plus/flutter_sfsymbols.dart';
 
 const Icon(SFSymbols.airplane),
 const Icon(SFSymbols.ant_circle_fill),
