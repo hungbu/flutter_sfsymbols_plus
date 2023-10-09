@@ -1,10 +1,10 @@
-name: flutter_sfsymbols
+name: flutter_sfsymbols_plus
 description: A new Flutter package.
-version: 2.0.0
-homepage: https://github.com/virskor/flutter_sfsymbols
+version: 1.0.0
+homepage: https://github.com/hungbu/flutter_sfsymbols_plus
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=3.1.0 <4.0.0'
 
 dependencies:
   flutter:
@@ -19,7 +19,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
+  uses-material-design: true
   # To add assets to your package, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
@@ -53,4 +53,4 @@ flutter:
   fonts:
     - family: sficonsets
       fonts:
-        - asset: packages/flutter_sfsymbols/fonts/sficonsets.ttf
+        - asset: packages/flutter_sfsymbols_plus/fonts/sficonsets.ttf

@@ -17,7 +17,7 @@ and you need add fonts into your pubspec.yaml too
 fonts:
   - family: sficonsets
     fonts:
-      - asset: packages/flutter_sfsymbols/fonts/sficonsets.ttf
+      - asset: packages/flutter_sfsymbols_plus/fonts/sficonsets.ttf
 ```
 
 ## All Icons
